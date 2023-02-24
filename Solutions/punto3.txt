@@ -1,0 +1,12 @@
+
+
+#### Solución del punto 3 ####
+
+InOrder: [User: Juan, User: Jesús Daniel, User: Maria Isabel Sola Valle, User: Jesus Zuluaga Moreno, User: Laureano Lafaurie Del Villar, User: Charlie,
+          User: Cristhian Agamez, User: mcast15, User: K3nnyZY, User: J, User: jose, User: carlos andres, User: Sebastian Racedo Vál]
+
+PreOrder: [User: Charlie, User: Jesus Zuluaga Moreno, User: Jesús Daniel, User: Juan, User: Maria Isabel Sola, User: Laureano Lafaurie Del Villar,
+           User: Cristhian Agamez, User: J, User: K3nnyZY, User: mcast15, User: Sebastian Racedo Vál, User: andres, User: jose]
+
+PostOrder: [User: Juan, User: Maria Isabel Solá valle, User: Jesús Daniel, User: Laureano Lafaurie Del Villar, User: Jesus Zuluaga Moreno,
+            User: mcast15, User: K3nnyZY, User: jose, User: carlos andres, User: Sebastian Racedo Vál, User: J, User: Cristhian Agamez, User: Charlie]
